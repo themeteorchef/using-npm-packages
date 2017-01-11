@@ -1,17 +1,9 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+##### Tutorial: Using NPM Packages
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.10.0</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.2.3</td>
-    </tr>
-  </tbody>
-</table>
+In this tutorial, we'll learn how to use [NPM](https://npmjs.org) packages in our Meteor application. We'll learn about the difference between NPM and Atmosphere packages, learn how to get packages installed (and update our `package.json` file), and how to put our packages to use in our application.
 
-[Read the Documentation](http://themeteorchef.com/base)
+[Learn How to Use NPM Packages](https://themeteorchef.com/tutorials/using-npm-packages)  
+
+[Download the Source](https://github.com/themeteorchef/using-npm-packages/archive/master.zip)
+
+The code for this tutorial is licensed under the [MIT License](http://opensource.org/licenses/MIT).
